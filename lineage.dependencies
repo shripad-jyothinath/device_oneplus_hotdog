@@ -1,20 +1,14 @@
 [
   {
-    "repository"   : "device_oneplus_sm8150-common",
+    "repository"   : "shripad-jyothinath/device_oneplus_sm8150-common",
     "target_path"  : "device/oneplus/sm8150-common",
     "remote"       : "pixel-devices",
-    "branch"       : "thirteen"
+    "branch"       : "github"
   },
   {
-    "repository"  : "vendor_oneplus_hotdog",
+    "repository"  : "shripad-jyothinath/vendor_oneplus_hotdog",
     "target_path" : "vendor/oneplus/hotdog",
     "branch"      : "thirteen",
-    "remote"      : "pixel-devices-blobs"
+    "remote"      : "github"
   },
-  {
-    "repository"  : "vendor_oneplus-firmware",
-    "target_path" : "vendor/oneplus/firmware",
-    "branch"      : "thirteen",
-    "remote"      : "pixel-devices-blobs"
-  }
 ]
